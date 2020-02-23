@@ -10,9 +10,4 @@ class Dog
   def bark
     puts "woof!"
   end
-
-  def bark
-    @bark
-  end
-
 end
